@@ -1,0 +1,15 @@
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\bin\Debug\net6.0\zadacha59.exe
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\bin\Debug\net6.0\zadacha59.deps.json
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\bin\Debug\net6.0\zadacha59.runtimeconfig.json
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\bin\Debug\net6.0\zadacha59.dll
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\bin\Debug\net6.0\zadacha59.pdb
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\obj\Debug\net6.0\zadacha59.csproj.AssemblyReference.cache
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\obj\Debug\net6.0\zadacha59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\obj\Debug\net6.0\zadacha59.AssemblyInfoInputs.cache
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\obj\Debug\net6.0\zadacha59.AssemblyInfo.cs
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\obj\Debug\net6.0\zadacha59.csproj.CoreCompileInputs.cache
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\obj\Debug\net6.0\zadacha59.dll
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\obj\Debug\net6.0\refint\zadacha59.dll
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\obj\Debug\net6.0\zadacha59.pdb
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\obj\Debug\net6.0\zadacha59.genruntimeconfig.cache
+C:\Users\geras\Desktop\domashka8\zadacha56\zadacha58\zadacha59\obj\Debug\net6.0\ref\zadacha59.dll
